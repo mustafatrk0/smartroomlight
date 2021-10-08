@@ -1,3 +1,5 @@
+//Author : Mustafa Ergül
+
 #define ledPin 7  // Relay control pin
 char value; // Submitted value
 
